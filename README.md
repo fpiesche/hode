@@ -19,14 +19,13 @@ The original data files from the Windows releases (Demo or CD) are required.
 - `*_hod.mst`
 
 See also the [`RELEASES.yaml`](RELEASES.yaml) file for a list of game versions this program
-has been tested with.
+has been tested with and details on their data files.
 
 
 ## Running
 
 By default the engine will try to load the files from the current directory
 and start the game from the first level.
-
 
 ### Command-line Arguments
 
